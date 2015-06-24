@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
     The local repository is like the base, it may be wrong in the online version. Pull changes manually makes the repository more stable.
 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+   forks: the clones in github, after the fork, users can make their own changes and commit them to the original version.
+   clones: used in computer and between computer and websites.
+   branches: used in one place, when to make some change while not affect the original version.
+
